@@ -1,0 +1,45 @@
+[
+  {
+    "imagePath": "https://static.gamespot.com/uploads/scale_medium/1197/11970954/3200915-ig-shadowofwar-20170227.jpg",
+    "title": "Middle-Earth: Shadow of War",
+    "description":
+      "The sequel to the critically acclaimed Middle-earth: Shadow of Mordor, Middle-earth: Shadow of War features an original story with the return of Talion and Celebrimbor, who must go behind enemy lines to forge an army and turn all of Mordor against the Dark Lord, Sauron.",
+    "price": 59.99
+  },
+  {
+    "imagePath": "http://img.game.co.uk/hub/images/Destiny2/Destiny-2.jpg",
+    "title": "Destiny 2",
+    "description":
+      "From the makers of the acclaimed hit game Destiny, comes the much-anticipated FPS sequel that takes you on an epic journey across the solar system. Humanity’s last safe city has fallen to an overwhelming invasion force, led by Ghaul, the imposing commander of the brutal Red Legion.",
+    "price": 59.99
+  },
+  {
+    "imagePath": "https://upload.wikimedia.org/wikipedia/en/4/48/South_Park_The_Fractured_but_Whole_cover_art.jpg",
+    "title": "South Park: The Fractured But Whole",
+    "description":
+      "Delve into the crime-ridden underbelly of South Park in South Park: The Fractured but Whole, the sequel to 2014’s award-winning adventure South Park: The Stick of Truth. Created alongside South Park creators Trey Parker and Matt Stone, The Fractured but Whole once again lets players become the New Kid in South Park, joining Stan, Kyle, Kenny and Cartman in a hilarious and outrageous RPG adventure.",
+    "price": 59.99
+  },
+  {
+    "imagePath": "https://cms.bandainamcoent.com/sites/default/files/games/boxart/game-box_36.jpg",
+    "title": "Ni No Kuni 2: Revenant Kingdom",
+    "description":
+      "Developed by famed Japanese video game studio Level-5, Ni no Kuni II: Revenant Kingdom is the second game in the acclaimed, anime-inspired RPG franchise and features an all-new cast of charming characters, an emotional storyline, and innovative gameplay design that will delight and challenge players.",
+    "price": 59.99
+  },
+  {
+    "imagePath":
+      "http://pre12.deviantart.net/01a8/th/pre/i/2016/296/7/c/red_dead_redemption_2_cover_by_domestrialization-dalqbwd.jpg",
+    "title": "Red Dead Redemption 2",
+    "description":
+      "Red Dead Redemption 2 is an epic tale of life in America’s unforgiving heartland. The game's vast and atmospheric world also provides the foundation for a brand new online multiplayer experience.",
+    "price": 59.99
+  },
+  {
+    "imagePath":
+      "http://www.fromheroestoicons.net/wp-content/uploads/2017/04/Uncharted-The-Lost-Legacy_2017_04-11-17_006.jpg",
+    "title": "Uncharted: The Lost Legacy",
+    "description": "A tight, varied adventure and great characters makes Lost Legacy a true Uncharted game.",
+    "price": 39.99
+  }
+];
