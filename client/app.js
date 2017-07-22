@@ -28,7 +28,12 @@ angular
           url: '^/list',
           templateUrl: 'components/home/homeList/home-list-view.html',
           controller: 'homeListController',
-          controllerAs: 'homeList'
+          controllerAs: 'homeList',
+          resolve: {
+            gamesData: function(Games) {
+              return Games.getGames();
+            }
+          }
         })
         .state('about', {
           url: '/about',

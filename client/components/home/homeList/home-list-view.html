@@ -1,4 +1,7 @@
 <h3 class="home-list-container">List of Home Items</h3>
-<ul>
-  <li ng-repeat="item in homeList.items">{{item}}</li>
-</ul>
+<div class="game" ng-repeat="game in homeList.games">
+  <img class="game-image" ng-src="{{game.imagePath}}"/>
+  <h3 class="game-title">{{game.title}}</h3>
+  <p class="game-description">{{game.description}}</p>
+  <p class="game-price">{{game.price}}</p>
+</div>

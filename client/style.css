@@ -17,3 +17,19 @@
 .about-container {
   margin-top: 100px;
 }
+
+/*=======================
+          Home List
+========================*/
+
+.game {
+  margin-bottom: 20px;
+}
+
+.game-image {
+  width: 200px;
+}
+
+.game-price {
+  font-weight: bold;
+}
